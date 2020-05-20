@@ -1,0 +1,69 @@
+header {
+    background-color:  #A8E6CE;
+}
+
+body {
+    background-color: #DCEDC2;
+
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+h1  {
+    color: #FFAAA6;
+    padding-left: 15%;
+    font-weight: semi-bold 600;
+}
+
+h2 {
+    color: #FFAAA6;
+
+}
+h3 {
+    color: #FFAAA6;
+
+}
+p {
+    color: #8fc7b1;
+
+}
+
+.finstagram-post {
+    margin-bottom: 48px;
+ }
+
+ .finstagram-post .user-info img { 
+     border-radius: 50%;
+ }
+
+ body {
+ font-family: 'Montserrat', sans-serif;
+}
+a.photo{
+    transition: padding 05s; 
+    }
+    a.photo:hover{
+    padding: 10px; 
+ }
+ 
+ a {
+    color: #FFAAA6;
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
